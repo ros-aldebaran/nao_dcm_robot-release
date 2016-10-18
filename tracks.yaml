@@ -21,5 +21,5 @@ tracks:
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
-    vcs_uri: https://github.com/ros-aldebaran/nao_dcm_robot.git
+    vcs_uri: https://github.com/ros-naoqi/nao_dcm_robot.git
     version: :{auto}
